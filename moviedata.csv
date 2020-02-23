@@ -1,0 +1,201 @@
+movie,year,imdb_ratings,votes,Director
+Avengers: Infinity War,(2018),8.5,748447,Anthony Russo
+Black Panther,(2018),7.3,565003,Ryan Coogler
+Deadpool 2,(2018),7.7,437202,David Leitch
+Bohemian Rhapsody,(2018),8.0,409308,Bryan Singer
+A Quiet Place,(2018),7.5,353727,John Krasinski
+Ready Player One,(2018),7.5,330948,Steven Spielberg
+Aquaman,(2018),7.0,326122,James Wan
+Venom,(2018),6.7,322262,Ruben Fleischer
+A Star Is Born,(2018),7.7,297202,Bradley Cooper
+Spider-Man: Into the Spider-Verse,(2018),8.4,296802,Bob Persichetti
+Green Book,(2018),8.2,291895,Peter Farrelly
+Ant-Man and the Wasp,(2018),7.1,277116,Peyton Reed
+Mission: Impossible - Fallout,(2018),7.8,262260,Christopher McQuarrie
+Solo: A Star Wars Story,(2018),6.9,260772,Ron Howard
+Annihilation,(2018),6.9,253242,Alex Garland
+Bird Box,(2018),6.6,246957,Susanne Bier
+Jurassic World: Fallen Kingdom,(2018),6.2,240825,J.A. Bayona
+Incredibles 2,(2018),7.6,225812,Brad Bird
+Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,194524,David Yates
+Hereditary,(2018),7.3,194384,Ari Aster
+Game Night,(I) (2018),6.9,182213,John Francis Daley
+BlacKkKlansman,(2018),7.5,179374,Spike Lee
+Tomb Raider,(2018),6.3,177510,Roar Uthaug
+Ocean's Eight,(2018),6.2,161195,Gary Ross
+Red Sparrow,(2018),6.6,151061,Francis Lawrence
+The Favourite,(2018),7.6,148005,Yorgos Lanthimos
+First Man,(2018),7.3,146146,Damien Chazelle
+The Haunting of Hill House,(2018– ),8.7,138470,Henry Thomas
+The Meg,(2018),5.7,130254,Jon Turteltaub
+Rampage,(2018),6.1,127919,Brad Peyton
+Upgrade,(2018),7.5,126748,Leigh Whannell
+Roma,(2018),7.7,123667,Alfonso Cuarón
+Isle of Dogs,(2018),7.9,122709,Wes Anderson
+Crazy Rich Asians,(2018),6.9,119097,Jon M. Chu
+Searching,(III) (2018),7.6,118987,Aneesh Chaganty
+Bumblebee,(I) (2018),6.8,118967,Travis Knight
+Altered Carbon,(2018– ),8.1,117554,Chris Conner
+The Equalizer 2,(2018),6.7,113702,Antoine Fuqua
+Ralph Breaks the Internet,(2018),7.1,112592,Phil Johnston
+Bad Times at the El Royale,(2018),7.1,112414,Drew Goddard
+Sicario: Day of the Soldado,(2018),7.1,109843,Stefano Sollima
+You,(2018– ),7.8,107967,Penn Badgley
+The Predator,(2018),5.4,106892,Shane Black
+A Simple Favor,(2018),6.8,106859,Paul Feig
+Halloween,(I) (2018),6.6,105924,David Gordon Green
+The Nun,(2018),5.3,104856,Corin Hardy
+The Ballad of Buster Scruggs,(2018),7.3,103669,Ethan Coen
+Black Mirror: Bandersnatch,(2018 TV Movie),7.2,102805,David Slade
+Vice,(I) (2018),7.2,101143,Adam McKay
+Maze Runner: The Death Cure,(2018),6.2,100261,Wes Ball
+Avengers: Infinity War,(2018),8.5,748447,Anthony Russo
+Black Panther,(2018),7.3,565003,Ryan Coogler
+Deadpool 2,(2018),7.7,437202,David Leitch
+Bohemian Rhapsody,(2018),8.0,409308,Bryan Singer
+A Quiet Place,(2018),7.5,353727,John Krasinski
+Ready Player One,(2018),7.5,330948,Steven Spielberg
+Aquaman,(2018),7.0,326122,James Wan
+Venom,(2018),6.7,322262,Ruben Fleischer
+A Star Is Born,(2018),7.7,297202,Bradley Cooper
+Spider-Man: Into the Spider-Verse,(2018),8.4,296802,Bob Persichetti
+Green Book,(2018),8.2,291895,Peter Farrelly
+Ant-Man and the Wasp,(2018),7.1,277116,Peyton Reed
+Mission: Impossible - Fallout,(2018),7.8,262260,Christopher McQuarrie
+Solo: A Star Wars Story,(2018),6.9,260772,Ron Howard
+Annihilation,(2018),6.9,253242,Alex Garland
+Bird Box,(2018),6.6,246957,Susanne Bier
+Jurassic World: Fallen Kingdom,(2018),6.2,240825,J.A. Bayona
+Incredibles 2,(2018),7.6,225812,Brad Bird
+Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,194524,David Yates
+Hereditary,(2018),7.3,194384,Ari Aster
+Game Night,(I) (2018),6.9,182213,John Francis Daley
+BlacKkKlansman,(2018),7.5,179374,Spike Lee
+Tomb Raider,(2018),6.3,177510,Roar Uthaug
+Ocean's Eight,(2018),6.2,161195,Gary Ross
+Red Sparrow,(2018),6.6,151061,Francis Lawrence
+The Favourite,(2018),7.6,148005,Yorgos Lanthimos
+First Man,(2018),7.3,146146,Damien Chazelle
+The Haunting of Hill House,(2018– ),8.7,138470,Henry Thomas
+The Meg,(2018),5.7,130254,Jon Turteltaub
+Rampage,(2018),6.1,127919,Brad Peyton
+Upgrade,(2018),7.5,126748,Leigh Whannell
+Roma,(2018),7.7,123667,Alfonso Cuarón
+Isle of Dogs,(2018),7.9,122709,Wes Anderson
+Crazy Rich Asians,(2018),6.9,119097,Jon M. Chu
+Searching,(III) (2018),7.6,118987,Aneesh Chaganty
+Bumblebee,(I) (2018),6.8,118967,Travis Knight
+Altered Carbon,(2018– ),8.1,117554,Chris Conner
+The Equalizer 2,(2018),6.7,113702,Antoine Fuqua
+Ralph Breaks the Internet,(2018),7.1,112592,Phil Johnston
+Bad Times at the El Royale,(2018),7.1,112414,Drew Goddard
+Sicario: Day of the Soldado,(2018),7.1,109843,Stefano Sollima
+You,(2018– ),7.8,107967,Penn Badgley
+The Predator,(2018),5.4,106892,Shane Black
+A Simple Favor,(2018),6.8,106859,Paul Feig
+Halloween,(I) (2018),6.6,105924,David Gordon Green
+The Nun,(2018),5.3,104856,Corin Hardy
+The Ballad of Buster Scruggs,(2018),7.3,103669,Ethan Coen
+Black Mirror: Bandersnatch,(2018 TV Movie),7.2,102805,David Slade
+Vice,(I) (2018),7.2,101143,Adam McKay
+Maze Runner: The Death Cure,(2018),6.2,100261,Wes Ball
+Avengers: Infinity War,(2018),8.5,748447,Anthony Russo
+Black Panther,(2018),7.3,565003,Ryan Coogler
+Deadpool 2,(2018),7.7,437202,David Leitch
+Bohemian Rhapsody,(2018),8.0,409308,Bryan Singer
+A Quiet Place,(2018),7.5,353727,John Krasinski
+Ready Player One,(2018),7.5,330948,Steven Spielberg
+Aquaman,(2018),7.0,326122,James Wan
+Venom,(2018),6.7,322262,Ruben Fleischer
+A Star Is Born,(2018),7.7,297202,Bradley Cooper
+Spider-Man: Into the Spider-Verse,(2018),8.4,296802,Bob Persichetti
+Green Book,(2018),8.2,291895,Peter Farrelly
+Ant-Man and the Wasp,(2018),7.1,277116,Peyton Reed
+Mission: Impossible - Fallout,(2018),7.8,262260,Christopher McQuarrie
+Solo: A Star Wars Story,(2018),6.9,260772,Ron Howard
+Annihilation,(2018),6.9,253242,Alex Garland
+Bird Box,(2018),6.6,246957,Susanne Bier
+Jurassic World: Fallen Kingdom,(2018),6.2,240825,J.A. Bayona
+Incredibles 2,(2018),7.6,225812,Brad Bird
+Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,194524,David Yates
+Hereditary,(2018),7.3,194384,Ari Aster
+Game Night,(I) (2018),6.9,182213,John Francis Daley
+BlacKkKlansman,(2018),7.5,179374,Spike Lee
+Tomb Raider,(2018),6.3,177510,Roar Uthaug
+Ocean's Eight,(2018),6.2,161195,Gary Ross
+Red Sparrow,(2018),6.6,151061,Francis Lawrence
+The Favourite,(2018),7.6,148005,Yorgos Lanthimos
+First Man,(2018),7.3,146146,Damien Chazelle
+The Haunting of Hill House,(2018– ),8.7,138470,Henry Thomas
+The Meg,(2018),5.7,130254,Jon Turteltaub
+Rampage,(2018),6.1,127919,Brad Peyton
+Upgrade,(2018),7.5,126748,Leigh Whannell
+Roma,(2018),7.7,123667,Alfonso Cuarón
+Isle of Dogs,(2018),7.9,122709,Wes Anderson
+Crazy Rich Asians,(2018),6.9,119097,Jon M. Chu
+Searching,(III) (2018),7.6,118987,Aneesh Chaganty
+Bumblebee,(I) (2018),6.8,118967,Travis Knight
+Altered Carbon,(2018– ),8.1,117554,Chris Conner
+The Equalizer 2,(2018),6.7,113702,Antoine Fuqua
+Ralph Breaks the Internet,(2018),7.1,112592,Phil Johnston
+Bad Times at the El Royale,(2018),7.1,112414,Drew Goddard
+Sicario: Day of the Soldado,(2018),7.1,109843,Stefano Sollima
+You,(2018– ),7.8,107967,Penn Badgley
+The Predator,(2018),5.4,106892,Shane Black
+A Simple Favor,(2018),6.8,106859,Paul Feig
+Halloween,(I) (2018),6.6,105924,David Gordon Green
+The Nun,(2018),5.3,104856,Corin Hardy
+The Ballad of Buster Scruggs,(2018),7.3,103669,Ethan Coen
+Black Mirror: Bandersnatch,(2018 TV Movie),7.2,102805,David Slade
+Vice,(I) (2018),7.2,101143,Adam McKay
+Maze Runner: The Death Cure,(2018),6.2,100261,Wes Ball
+Avengers: Infinity War,(2018),8.5,748447,Anthony Russo
+Black Panther,(2018),7.3,565003,Ryan Coogler
+Deadpool 2,(2018),7.7,437202,David Leitch
+Bohemian Rhapsody,(2018),8.0,409308,Bryan Singer
+A Quiet Place,(2018),7.5,353727,John Krasinski
+Ready Player One,(2018),7.5,330948,Steven Spielberg
+Aquaman,(2018),7.0,326122,James Wan
+Venom,(2018),6.7,322262,Ruben Fleischer
+A Star Is Born,(2018),7.7,297202,Bradley Cooper
+Spider-Man: Into the Spider-Verse,(2018),8.4,296802,Bob Persichetti
+Green Book,(2018),8.2,291895,Peter Farrelly
+Ant-Man and the Wasp,(2018),7.1,277116,Peyton Reed
+Mission: Impossible - Fallout,(2018),7.8,262260,Christopher McQuarrie
+Solo: A Star Wars Story,(2018),6.9,260772,Ron Howard
+Annihilation,(2018),6.9,253242,Alex Garland
+Bird Box,(2018),6.6,246957,Susanne Bier
+Jurassic World: Fallen Kingdom,(2018),6.2,240825,J.A. Bayona
+Incredibles 2,(2018),7.6,225812,Brad Bird
+Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,194524,David Yates
+Hereditary,(2018),7.3,194384,Ari Aster
+Game Night,(I) (2018),6.9,182213,John Francis Daley
+BlacKkKlansman,(2018),7.5,179374,Spike Lee
+Tomb Raider,(2018),6.3,177510,Roar Uthaug
+Ocean's Eight,(2018),6.2,161195,Gary Ross
+Red Sparrow,(2018),6.6,151061,Francis Lawrence
+The Favourite,(2018),7.6,148005,Yorgos Lanthimos
+First Man,(2018),7.3,146146,Damien Chazelle
+The Haunting of Hill House,(2018– ),8.7,138470,Henry Thomas
+The Meg,(2018),5.7,130254,Jon Turteltaub
+Rampage,(2018),6.1,127919,Brad Peyton
+Upgrade,(2018),7.5,126748,Leigh Whannell
+Roma,(2018),7.7,123667,Alfonso Cuarón
+Isle of Dogs,(2018),7.9,122709,Wes Anderson
+Crazy Rich Asians,(2018),6.9,119097,Jon M. Chu
+Searching,(III) (2018),7.6,118987,Aneesh Chaganty
+Bumblebee,(I) (2018),6.8,118967,Travis Knight
+Altered Carbon,(2018– ),8.1,117554,Chris Conner
+The Equalizer 2,(2018),6.7,113702,Antoine Fuqua
+Ralph Breaks the Internet,(2018),7.1,112592,Phil Johnston
+Bad Times at the El Royale,(2018),7.1,112414,Drew Goddard
+Sicario: Day of the Soldado,(2018),7.1,109843,Stefano Sollima
+You,(2018– ),7.8,107967,Penn Badgley
+The Predator,(2018),5.4,106892,Shane Black
+A Simple Favor,(2018),6.8,106859,Paul Feig
+Halloween,(I) (2018),6.6,105924,David Gordon Green
+The Nun,(2018),5.3,104856,Corin Hardy
+The Ballad of Buster Scruggs,(2018),7.3,103669,Ethan Coen
+Black Mirror: Bandersnatch,(2018 TV Movie),7.2,102805,David Slade
+Vice,(I) (2018),7.2,101143,Adam McKay
+Maze Runner: The Death Cure,(2018),6.2,100261,Wes Ball
