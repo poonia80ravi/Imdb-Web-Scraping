@@ -8,5 +8,5 @@ Clone the Repository.
 Run the requirement.txt file command as
 python -m requirement.txt
 
-![alt text]( "Sample Data")
+![alt text]( https://github.com/poonia80ravi/Imdb-Web-Scraping/blob/master/imdb_data.png "Sample Data")
 
